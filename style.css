@@ -35,9 +35,8 @@ main {
 
 
 }
-section#rede-sociais {
-    text-align: right;
-}
+
+
 
 section#rede-sociais img{
     width: 50px;
@@ -46,6 +45,9 @@ section#rede-sociais img{
     
 
 } 
+section#rede-sociais{
+    text-align: right;
+}
 
 
 
