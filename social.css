@@ -1,0 +1,26 @@
+@charset "UTF-8";
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ img {
+    
+    width: 95vw;
+
+ }
+ 
+ 
+ a{
+    display: block;
+    text-align: center;
+    background-color:black;
+    color:white;
+    font-weight: bolder;
+    padding: 20px;
+    text-decoration: none;
+ }
+ 
+ a:hover {
+    background-color: rgb(63, 63, 63);
+ }
